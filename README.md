@@ -2,6 +2,9 @@
 
 ## Project Overview
 Designed and configured a small Local Area Network (LAN) using Cisco Packet Tracer. The objective was to connect two computers through a Cisco 2960 switch and verify network communication.
+## Network Topology
+
+![Small Office LAN Network Topology](network_topology.png)
 
 ## Tools and Equipment
 - Cisco Packet Tracer
